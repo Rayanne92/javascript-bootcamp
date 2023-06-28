@@ -1,0 +1,50 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    margin: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    width: 50%;
+    padding : 3px;
+}
+
+#div-combattant {
+    width : 25%;
+    text-align: center;
+}
+
+#div-resultat {
+    width : 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#affichage-resultat {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+#legend-taille {
+    font-size: 50px;
+}
+
+#versus {
+    font-size: 40px;
+}

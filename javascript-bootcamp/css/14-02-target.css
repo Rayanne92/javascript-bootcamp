@@ -1,0 +1,21 @@
+figure {
+    width: 10%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+div{
+    width: 500px;
+    height: 100px;  
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
